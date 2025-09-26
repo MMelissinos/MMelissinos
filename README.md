@@ -29,9 +29,10 @@ After graduating from the Mathematics department, I worked primarily as an onlin
 ## Projects
 
 <!-- Add your completed/in-progress projects here -->
-- **Project 1:** _Description_
-- **Project 2:** _Description_
-- **Project 3:** _Description_
+## Projects
+
+- **EuroBasket Archetypes & Advancement Pathways**  
+  Clustering EuroBasket teams into playing‑style archetypes and analyzing how those styles translate into tournament survival, with portfolio‑ready visualizations.
 
 ## Contact
 
